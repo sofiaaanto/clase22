@@ -72,3 +72,15 @@ header h2{
     display: block;
 
 }
+
+.cabecera{
+    position: relative;
+
+}
+.nombre_puesto{
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 1%;
+    text-shadow: 0px 0px 20px rgba(0,0,0,0.5)
+
+}
