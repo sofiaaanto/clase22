@@ -33,3 +33,42 @@ header figure img {
     border: 5px solid #216cae;
     box-shadow: 0px 0px 10px ;
 }
+
+header h1{
+    font-size: 1.2em;
+    opacity: 0.7;
+}
+header h2{
+    font-size: 12.2;
+    opacity: 0.7;
+
+}
+
+.container{
+    background-color: rgb(0, 185, 15);
+    width: 80%;
+    margin: 0 auto;
+    position: relative;
+    z-index: 1;
+
+}
+
+.contenedor_foto_perfil{
+    width: 280px;
+    height: 280px;
+    border-radius: 50%;
+    overflow: hidden;
+    display: inline-block;
+    vertical-align: middle;
+    border: 7px solid #216cae;
+    margin: 5%;
+    box-shadow: 0px 0px 20px rgba(0,0,0,0.5) ;
+
+}
+
+.contenedor_foto_perfil img{
+    width: 100%;
+    height: auto;
+    display: block;
+
+}
